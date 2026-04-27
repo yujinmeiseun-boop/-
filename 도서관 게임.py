@@ -30,3 +30,5 @@ for i in range(path_length) :
 
         print(library_2D)
   
+for i in range(10)
+    print(i)
