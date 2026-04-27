@@ -21,7 +21,6 @@ bookshelf_width = random.randint(5,path_length)
 
 #----------------------------------------------------
 
-#여기 아래👇 잘못됨. 의도한 기믹이 나오지 않음. 
 for i in range(path_length) :
     library_2D.append(0)
     for j in range(bookshelf_width+1) :
