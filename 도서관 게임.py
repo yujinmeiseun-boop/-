@@ -28,6 +28,7 @@ for i in range(path_length) :
 
 
         print(library_2D)
-  
-for list in list
-
+list = []
+for i in range(8)
+    list *= [0]
+    
